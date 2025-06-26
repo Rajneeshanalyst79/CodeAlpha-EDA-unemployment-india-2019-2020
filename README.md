@@ -1,4 +1,4 @@
-# CodeAlpha-EDA-unemployment-india-2019-2020
+# EDA-unemployment-india-2019-2020
 There are 2 Profects:
 1. EDA.
 2. Data Visualization.
