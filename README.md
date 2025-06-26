@@ -1,5 +1,5 @@
 # EDA-unemployment-india-2019-2020
-There are 2 Files:
+This project contains 2 Files:
 1. EDA.
 2. Data Visualization.
 This project performs on unemployment data in India, with a focus on understanding regional patterns and the impact of the **COVID-19 pandemic** on employment trends.
